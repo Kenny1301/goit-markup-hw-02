@@ -20,7 +20,8 @@ body {
 .features-list,
 .gallery-works,
 .team-list,
-.gallary-list {
+.gallary-list,
+.list-btn {
     list-style-type: none;
 }
 
@@ -98,9 +99,6 @@ body {
     line-height: 1.2;
 }
 
-.list-btn {
-    list-style-type: none;   
-}
 
 .features-item {
     font-size: 14px;
